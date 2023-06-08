@@ -1,6 +1,6 @@
+<img src="https://github.com/GuillerminaDiaz/GuillerminaDiaz/assets/120391376/fdbd14b9-26b3-4939-9480-f56ef38414a9" alt="porfile" width="3000px"/>
 
-## <div align="center">Hi there! I'm Guillermina
-  
+<div align="center"><h2>Hi there! I'm Guillermina</h2>
   
 Full Stack Developer👨‍💻 
 
