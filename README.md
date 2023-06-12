@@ -23,9 +23,13 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
 
 
 ## My Skill Set  
-Front End:  React | Redux | CSS | HTML 
-Back End: Node | Express | JavaScript | Git 
-Dtabase: PostgreSQL | Sequelize
+<p>
+  Front End:  React | Redux | CSS | HTML 
+  
+  Back End: Node | Express | JavaScript | Git 
+  
+  Database: PostgreSQL | Sequelize
+</p>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
