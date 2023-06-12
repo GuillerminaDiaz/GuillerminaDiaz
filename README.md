@@ -23,6 +23,10 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
 
 
 ## My Skill Set  
+Front End:  React | Redux | CSS | HTML 
+Back End: Node | Express | JavaScript | Git 
+Dtabase: PostgreSQL | Sequelize
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -39,7 +43,13 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
 <div align="center">  
   
 </div>  
-
+<div>
+  <h3>Proyect</h3>
+  <h4> Henry Bootcamp individual poject- Videogames </h4>
+    <img src="https://github.com/GuillerminaDiaz/GuillerminaDiaz/assets/120391376/28985a36-5e4f-4cbf-b2d4-16bdeacc30b3" alt="Project img" width=500
+     />
+  
+  <p> Deploy: https://pi-videojuegos-xi.vercel.app  </p>                             
 <br/>  
 
 
