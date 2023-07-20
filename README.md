@@ -13,7 +13,7 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
 🎓I'm currently studyng Full-stack develop, Henry Bootcamp.  
   
 
-🌱 I’m currently learning Typescript and SCRUM.  
+🌱 I’m currently learning React Native and SCRUM.  
   
 
 📧 You can shoot me an email at guillerminaadiaz@gmail.com ! I'll try to respond as soon as I can.  
@@ -24,11 +24,15 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
 
 ## My Skill Set  
 <p>
-  Front End:  React | Redux | CSS | HTML 
+  Javascript | Typescript
   
-  Back End: Node | Express | JavaScript | Git 
+  Front End:  React | Redux | CSS | HTML | React Native | Redux Toolkit
+  
+  Back End: Node | Express 
   
   Database: PostgreSQL | Sequelize
+
+  Git 
 </p>
 
 <div align="center">  
