@@ -13,7 +13,7 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
 🎓I'm currently studyng Full-stack develop, Henry Bootcamp.  
   
 
-🌱 I’m currently learning React Native and SCRUM.  
+🌱 I’m currently learning MongoDB and Mongoose.  
   
 
 📧 You can shoot me an email at guillerminaadiaz@gmail.com ! I'll try to respond as soon as I can.  
@@ -33,6 +33,8 @@ Motivated to learn and develop in the amazing world of IT🚀</div>
   Database: PostgreSQL | Sequelize
 
   Git 
+
+  SCRUM
 </p>
 
 <div align="center">  
